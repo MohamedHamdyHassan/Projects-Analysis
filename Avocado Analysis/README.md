@@ -50,4 +50,6 @@
 #### 10. The region that has the Highst average price is (SanFrancisco= 3.25) & The Lowest is (CincinnatiDayton= 0.44)
 
 ### Recommendation:
-#### The average price in the rest of the country must be reduced to improve the level of sales and production. Since the best-selling type is the conventional avocado, there must be a lot of advertising for the conventional avocado to maintain the level of production and sale and work on the best. After looking at the level of avocado sales over the years, we noticed that it was in the trend. While it decreased significantly in 2018, and after searching for the reason, it was due to the beginnings of the Corona virus, which led to the closure of all factories and a reduction in production and sales.
+        1. The average price in the rest of the country must be reduced to improve the level of sales and production. 
+        2. Since the best-selling type is the conventional avocado, there must be a lot of advertising for the conventional avocado to maintain the level of production and sale and work on the best.
+        3. After looking at the level of avocado sales over the years, we noticed that it was in the trend, While it decreased significantly in 2018, and after searching for the reason, it was due to the beginnings of the Corona virus, which led to the closure of all factories and a reduction in production and sales.
